@@ -1,10 +1,10 @@
-# 🧠 Skin Cancer Detection Web App using Deep Learning
+#  Skin Cancer Detection Web App using Deep Learning
 
 This is a simple web application built with **Streamlit** that predicts skin cancer types from dermoscopic images using a **Convolutional Neural Network (CNN)** trained on the **HAM10000 dataset**.
 
 ---
 
-## 📌 Project Features
+##  Project Features
 
 - 🧪 Deep Learning model (Keras/TensorFlow)
 - 🖼️ Image upload and classification
